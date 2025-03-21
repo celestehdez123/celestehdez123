@@ -72,6 +72,6 @@ I'm always eager to learn and improve my skills. This is my portfolio where I'll
 
 ## [📊](https://github.com/anuraghazra/github-readme-stats/tree/master) My GitHub Stats
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=pizaranha&show_icons=true&theme=default\&rank_icon=github)
+![My Stats](https://github-readme-stats.vercel.app/api?username=celestehdez123&show_icons=true&theme=default\&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pizaranha&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=celestehdez123&layout=compact&theme=default)
